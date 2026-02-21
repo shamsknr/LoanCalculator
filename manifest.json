@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Loan Calculator",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Loan Calculator",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Loan Calculator"
+}
